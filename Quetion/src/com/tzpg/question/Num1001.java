@@ -3,8 +3,8 @@ package com.tzpg.question;
 import java.util.Scanner;
 
 /*
- * ¹®Á¦ 1001
- * µÎ Á¤¼ö A¿Í B¸¦ ÀÔ·Â¹ŞÀº ´ÙÀ½, A-B¸¦ Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥À» ÀÛ¼ºÇÏ½Ã¿À.
+ë¬¸ì œ. 1001
+ë‘ ì •ìˆ˜ Aì™€ Bë¥¼ ì…ë ¥ë°›ì€ ë‹¤ìŒ, A-Bë¥¼ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ë¨ì„ ì‘ì„±í•˜ì‹œì˜¤.
  */
 public class Num1001 extends Thread{
 

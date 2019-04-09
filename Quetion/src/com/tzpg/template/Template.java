@@ -1,8 +1,8 @@
 package com.tzpg.template;
 
 /*
- * ¹®Á¦ 
- * 
+ë¬¸ì œ
+
  */
 public class Template extends Thread{
 
